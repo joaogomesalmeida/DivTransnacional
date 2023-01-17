@@ -1,0 +1,22 @@
+#+title: O divórcio transnacional: determinação da lei aplicável
+#+date: 26 de janeiro de 2023
+#+Author: João Gomes de Almeida
+
+* Elementos de apoio à sessão
+
+/Nota:/ no presente documento indicam-se, sem qualquer pretensão de exaustividade, elementos que permitem aos formandos concretizar e aprofundar o tema. Devem ser considerados pontos de entrada, com o intuito de facilitar aos formandos o início das suas próprias pesquisas. Atendendo ao propósito, deu-se preferência a elementos escritos em língua portuguesa.
+
+* Bilbiografia
+
+- Pinheiro, Luís de Lima. Direito Internacional Privado. Direito de Conflitos - Parte Especial. 4.ª ed. Vol. II. Coimbra: Almedina, 2015.
+- Ramos, Rui Manuel Moura. «Um Novo Regime do Divórcio Internacional na União Europeia». Em Estudos de Direito Internacional Privado da União Europeia, 183–236. Coimbra: Imprensa da Universidade de Coimbra, 2016.
+- Almeida, João Gomes de. O Divórcio em Direito Internacional Privado. Coimbra: Almedina, 2017.
+- Almeida, João Gomes de. «Casos práticos de divórcio transnacional». Em Direito Internacional da Família, 57–89. Formação Contínua. Lisboa: Centro de Estudos Judiciários, 2019. http://www.cej.mj.pt/cej/recursos/ebooks/familia/eb_DireitoI_Familia.pdf.
+- Almeida, João Gomes de. «O /favor divortii/ e os seus limites no Regulamento Roma III: comentário ao acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, JE contra KF, C-249/19, EU:C:2020:570 = /Favor Divortii/ and its Limits on the Rome III Regulation: Annotation on the European Court of Justice Judgment of 16 July 2020, JE v KF, C-249/19, EU:C:2020:570». Cuadernos de derecho transnacional 13, n.º 1 (2021): 874–86. https://doi.org/10.20318/cdt.2021.5997.
+
+* Jurisprudência
+
+- Acórdão do Tribunal de Justiça (TJ) de 20 de dezembro de 2017, /Sahyouni/, C-372/16, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-372%252F16&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=5407][EU:C:2017:988]];
+- Acórdão do TJ de 16 de julho de 2020, /JE contra KF/, C-249/19, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-249%252F19&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=6132][EU:C:2020:570]];
+- Acórdão do TJ de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-289%252F20&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=pt&lg=&page=1&cid=7960][EU:C:2021:955]];
+-
