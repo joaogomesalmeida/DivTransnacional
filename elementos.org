@@ -1,24 +1,28 @@
 #+title: O divórcio transnacional: determinação da lei aplicável
-#+date: 26 de janeiro de 2023
+#+date: 11 de abril de 2024
 #+Author: João Gomes de Almeida
 #+LANGUAGE: pt
+#+LATEX_HEADER: \usepackage[AUTO]{polyglossia}
 #+OPTIONS: toc:nil num:nil
 #+LATEX_COMPILER: xelatex
-
+#+cite_export: csl chicago-fullnote-bibliography-16.csl
 
 * Elementos de apoio à sessão
 
 /Nota:/ no presente documento indicam-se, sem qualquer pretensão de exaustividade, elementos que permitem aos formandos concretizar e aprofundar o tema. Devem ser considerados pontos de entrada, com o intuito de facilitar aos formandos o início das suas próprias pesquisas. Atendendo ao propósito, deu-se preferência a elementos disponíveis em língua portuguesa.
 
-* Bilbiografia
+* Legislação mais relevante
 
-- Pinheiro, Luís de Lima. /Direito Internacional Privado. Direito de Conflitos - Parte Especial/. 4.ª ed. Vol. II. Coimbra: Almedina, 2015 (reimpressão de 2021, Lisboa, AAFDL);
-- Ramos, Rui Manuel Moura. «Um Novo Regime do Divórcio Internacional na União Europeia». Em /Estudos de Direito Internacional Privado da União Europeia/, 183–236. Coimbra: Imprensa da Universidade de Coimbra, 2016;
-- Almeida, João Gomes de. /O Divórcio em Direito Internacional Privado/. Coimbra: Almedina, 2017;
-- Patrão, Afonso. «A autonomia conflitual dos plurinacionais no Regulamento (UE) n.º 1259/2010, sobre lei aplicável ao divórcio». Em /Estudos em Homenagem ao Senhor Prof. Doutor Manuel da Costa Andrade/, vol. 3: 417–459. Instituto Jurídico, 2017. https://estudogeral.sib.uc.pt/handle/10316/83529.
-- Almeida, João Gomes de. «Casos práticos de divórcio transnacional». Em /Direito Internacional da Família/, 57–89. Formação Contínua. Lisboa: Centro de Estudos Judiciários, 2019. https://cej.justica.gov.pt/LinkClick.aspx?fileticket=gyxV9Lp3S1U%3d&portalid=30;
-- Almeida, João Gomes de. «O /favor divortii/ e os seus limites no Regulamento Roma III: comentário ao acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, JE contra KF, C-249/19, EU:C:2020:570 = /Favor Divortii/ and its Limits on the Rome III Regulation: Annotation on the European Court of Justice Judgment of 16 July 2020, JE v KF, C-249/19, EU:C:2020:570». /Cuadernos de derecho transnacional/ 13, n.º 1 (2021): 874–886. https://doi.org/10.20318/cdt.2021.5997.
+- [[https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32010R1259&qid=1674062369357][Regulamento Roma III]] e:
+  - [[https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012D0714&qid=1674062441268][Decisão n.º 2012/174/UE]] da Comissão Europeia, que confirma a participação da Lituânia no Regulamento Roma III;
+  - [[https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014D0039&qid=1674062441268][Decisão n.º 2014/39/UE]] da Comissão Europeia, que confirma a participação da Grécia no Regulamento Roma III;
+  - [[https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32016D1366&qid=1674062441268][Decisão n.º 2016/366]] da Comissão Europeia, que confirma a participação da Estónia no Regulamento Roma III.
 
+* Bilbiografia sumária
+
+[cite/nocite:@pinheiro2023a;@ramos2016;@patrao2017;@almeida2017c;@almeida2019b;@almeida2023e]
+
+#+print_bibliography:
 * Jurisprudência
 
 - Acórdão do Tribunal de Justiça (TJ) de 20 de dezembro de 2017, /Sahyouni/, C-372/16, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-372%252F16&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=5407][EU:C:2017:988]];
