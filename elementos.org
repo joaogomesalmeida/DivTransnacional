@@ -1,10 +1,12 @@
 #+title: O divórcio transnacional: determinação da lei aplicável
-#+date: 11 de abril de 2024
+#+date: 10 de abril de 2025
 #+Author: João Gomes de Almeida
 #+LANGUAGE: pt
 #+LATEX_HEADER: \usepackage[AUTO]{polyglossia}
 #+OPTIONS: toc:nil num:nil
 #+LATEX_COMPILER: xelatex
+
+#+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
 #+cite_export: csl chicago-fullnote-bibliography-16.csl
 
 * Elementos de apoio à sessão
